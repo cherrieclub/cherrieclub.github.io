@@ -572,7 +572,7 @@ margin-top: 0;
 .main-menu-navigation .navigation > li > a {
 	position:relative;
 	display:block;
-	font-size: 14px;
+	font-size: 18px;
 	color:#222222;
 	line-height: 26px;
 	font-weight:500;
@@ -671,7 +671,7 @@ margin-top: 0;
 	position: relative;
 }
 .slotholder:after {
-	background: rgba(44, 48, 56, 0.3); /* remove slider shadow */
+	background: rgba(44, 48, 56, 0.2); /* remove slider shadow */
 	width: 100%;
 	height: 100%;
 	content: "";
