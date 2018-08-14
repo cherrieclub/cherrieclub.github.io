@@ -1398,6 +1398,7 @@ margin-top: 0;
 	position: relative;
 	z-index: 1;
 	border-top: 5px solid rgba(0, 102, 204, 0.9);
+	border-bottom: 5px solid rgba(0, 102, 204, 0.9);
 	background-repeat: no-repeat!important;
 	background-size: cover!important;
 }
@@ -1412,7 +1413,7 @@ margin-top: 0;
 	background: rgba(38, 44, 55, 0.9);
 }
 .main-footer-area .footer-top {
-	padding: 10px 0px;
+	padding: 10px 0;
 }
 .footer-top .sec-title h6 {
 	font-size: 24px;
